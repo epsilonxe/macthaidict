@@ -1,5 +1,7 @@
 # macthaidict
-Native Thai/English Dictionary for macOS 
+Thai/English Dictionaries for macOS 
+
+This Thai Dictionaries is a packaging of several foreign language - Thai collection dictionaries from the Longdo Dictionary project (http://dict.longdo.com/) in the format that is suitable for using in Mac OS X Leopard and later. 
 
 ## Install
 Since the pkg is split, we need to catinate them before install.
